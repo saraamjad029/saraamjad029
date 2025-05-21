@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Github!
 - 📫 You can reach me on @saraamjad029@gmail.com !
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am suoer efficient in my work!
+- ⚡ Fun fact: I am super efficient in my work!
 
 <!---
 saraamjad029/saraamjad029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
